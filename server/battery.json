@@ -1,0 +1,275 @@
+{
+    "battery": [
+      {
+        "id": "LIV1842",
+        "b_name": "LIVGUARD",
+        "warranty": "24",
+        "price":8200
+      },
+      {
+        "id": "MXFPN1842",
+        "b_name": "LIVFAST",
+        "warranty": "24",
+        "price":8450
+      },
+      {
+        "id": "RC15000",
+        "b_name": "LUMINIOUS",
+        "warranty": "18",
+        "price":8900
+      },
+      {
+        "id": "ILST12042",
+        "b_name": "LUMINIOUS",
+        "warranty": "28",
+        "price":9100
+      },
+      {
+        "id": "IHST1500",
+        "b_name": "EXIDE",
+        "warranty": "24",
+        "price":9300
+      },   
+      {
+        "id": "LIV1848",
+        "b_name": "LIVGUARD",
+        "warranty": "36",
+        "price":9400
+      },
+      {
+        "id": "MXSTJ1848",
+        "b_name": "LIVFAST",
+        "warranty": "36",
+        "price":9700
+      },
+      {
+        "id": "RC18000",
+        "b_name": "LUMINIOUS",
+        "warranty": "42",
+        "price":10800
+      },
+      {
+        "id": "XL18060",
+        "b_name": "LUMINIOUS",
+        "warranty": "48",
+        "price":11000
+      },
+      {
+        "id": "SC18060",
+        "b_name": "LUMINIOUS",
+        "warranty": "48",
+        "price":11200
+      },
+      {
+        "id": "MXTT1851",
+        "b_name": "LIVFAST",
+        "warranty": "48",
+        "price":11700
+      },
+      {
+        "id": "MXTT1963",
+        "b_name": "LIVFAST",
+        "warranty": "54",
+        "price":11900
+      },
+      {
+        "id": "IMTT2000",
+        "b_name": "EXIDE",
+        "warranty": "36",
+        "price":12100
+      },
+      {
+        "id": "IMTT2300",
+        "b_name": "EXIDE",
+        "warranty": "42",
+        "price":12400
+      },
+      {
+        "id": "AR200",
+        "b_name": "AMARON",
+        "warranty": "36",
+        "price":11400
+      },
+      {
+        "id": "AR220",
+        "b_name": "AMARON",
+        "warranty": "42",
+        "price":11900
+      },
+      {
+        "id": "LIV1851",
+        "b_name": "LIVFAST",
+        "warranty": "48",
+        "price":12200
+      }
+      
+
+     
+    ],
+    "inverter": [
+      
+      {
+        "id": "LIV750",
+        "b_name": "LIVGUARD",
+        "warranty": "24",
+        "price":2800
+      },
+      {
+        "id": "LIV800",
+        "b_name": "LIVFAST",
+        "warranty": "24",
+        "price":2900
+      },
+      {
+        "id": "EX800",
+        "b_name": "EXIDE",
+        "warranty": "24",
+        "price":3200
+      },
+      {
+        "id": "LI850",
+        "b_name": "LUMINIOUS",
+        "warranty": "24",
+        "price":3100
+      },
+      {
+        "id": "AM950",
+        "b_name": "AMARON",
+        "warranty": "24",
+        "price":3400
+      },
+      {
+        "id": "LI1100",
+        "b_name": "LUMINIOUS",
+        "warranty": "24",
+        "price":3700
+      },
+      {
+        "id": "LIV1150",
+        "b_name": "LIVGUARD",
+        "warranty": "24",
+        "price":3900
+      },
+      {
+        "id": "LIV1250",
+        "b_name": "LIVFAST",
+        "warranty": "24",
+        "price":4100
+      },
+      {
+        "id": "AM1250",
+        "b_name": "AMARON",
+        "warranty": "24",
+        "price":4500
+      },
+      {
+        "id": "EX1400",
+        "b_name": "EXIDE",
+        "warranty": "24",
+        "price":4600
+      }
+      
+      
+
+      
+
+     
+    ],
+    "automotive": [
+      
+      {
+        "id": "EX5",
+        "b_name": "EXIDE",
+        "warranty": "18",
+        "price":870
+      },
+      {
+        "id": "LIVF5",
+        "b_name": "LIVFAST",
+        "warranty": "18",
+        "price":880
+      },
+      {
+        "id": "LIV9",
+        "b_name": "LIVGUARD",
+        "warranty": "18",
+        "price":1000
+      },
+      {
+        "id": "AM12",
+        "b_name": "AMARON",
+        "warranty": "18",
+        "price":1180
+      },
+      {
+        "id": "AM32",
+        "b_name": "AMARON",
+        "warranty": "18",
+        "price":2000
+      },
+      {
+        "id": "EX35",
+        "b_name": "EXIDE",
+        "warranty": "18",
+        "price":2300
+      },
+      {
+        "id": "LIV35",
+        "b_name": "LIVGUARD",
+        "warranty": "18",
+        "price":2900
+      },
+      {
+        "id": "LIVF35",
+        "b_name": "LIVFAST",
+        "warranty": "18",
+        "price":3000
+      },
+      {
+        "id": "LIV38",
+        "b_name": "LIVGUARD",
+        "warranty": "18",
+        "price":3240
+      },
+      {
+        "id": "EX42",
+        "b_name": "EXIDE",
+        "warranty": "18",
+        "price":3400
+      },
+      {
+        "id": "AM45",
+        "b_name": "AMARON",
+        "warranty": "18",
+        "price":3500
+      },
+      {
+        "id": "EX70",
+        "b_name": "EXIDE",
+        "warranty": "18",
+        "price":4000
+      },
+      {
+        "id": "AM80",
+        "b_name": "AMARON",
+        "warranty": "18",
+        "price":4100
+      },
+      {
+        "id": "LIV80",
+        "b_name": "LIVGUARD",
+        "warranty": "18",
+        "price":3950
+      },
+      {
+        "id": "LIVF90",
+        "b_name": "LIVFAST",
+        "warranty": "18",
+        "price":4600
+      }
+
+
+
+
+    ]
+  }
